@@ -10,7 +10,7 @@ Navigate to Folder : [/csv/](/csv/)
 - three
 
 # Background
-![Top Paying Roles](assets\image.png)
+![Top Paying Roles](assets/image.png)
 ```sql
 -- Code pasted here
 WITH skills_demand AS (
