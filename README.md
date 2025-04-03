@@ -4,6 +4,11 @@ Navigate to Folder : [/csv/](/csv/)
 **Bold** - Not bold
 
 *This is in italics*
+
+- one
+- two
+- three
+
 # Background
 ![Top Paying Roles](assets\image.png)
 ```sql
@@ -26,6 +31,16 @@ WITH skills_demand AS (
 ```
 # Introduction
 ## 1. Top paying jobs
+# Top 5 In-Demand Data Analyst Skills
+
+| Skill ID | Skills   | Demand Count | Average Salary (USD) |
+|----------|----------|--------------|----------------------|
+| 1        | Python   | 236          | $101,397             |
+| 80       | Snowflake| 37           | $112,948             |
+| 74       | Azure    | 34           | $111,225             |
+| 8        | Go       | 27           | $115,320             |
+| 97       | Hadoop   | 22           | $113,193             |
+
 # Introduction
 # Introduction
 # Introduction
